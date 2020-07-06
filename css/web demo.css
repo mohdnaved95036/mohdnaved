@@ -1,0 +1,245 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.contioner {
+    width: 100%;
+    margin: auto;
+    background-color: rgb(235, 202, 16);
+   position: fixed;
+   
+}
+
+.contioner ul {
+    text-align: center;
+    padding: 36px 0px;
+
+}
+
+.contioner ul li {
+    display: inline-block;
+    margin: 0px 18px;
+    font-size: 17px;
+
+}
+
+.contioner ul li a {
+    text-decoration: none;
+    color: rgb(20, 17, 17);
+    list-style: none;
+}
+
+.contioner a:hover {
+    color: black;
+}
+
+span {
+    font-size: 20px;
+    color: black;
+
+}
+
+.first-2 img {
+    width: 100%;
+    margin: auto;
+    height: auto;
+}
+
+.section-1 {
+    width: 100%;
+    margin: auto;
+}
+
+.contioner-2 {
+    width: 80%;
+    margin: auto;
+    display: table;
+}
+
+.heading {
+    float: left;
+    width: 54%;
+    margin: 96px 0px;
+
+}
+
+.heading-2 {
+    float: left;
+    width: 30%;
+    margin: 96px 62px;
+}
+
+.heading h1 {
+    font-size: 44px;
+    font-family: serif;
+}
+
+.heading p {
+    font-size: 17px;
+    padding: 14px 0px;
+    font-family: serif;
+    letter-spacing: 0.5px;
+    text-align: justify;
+}
+
+.heading-2 h1 {
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading-2 p {
+    font-size: 16px;
+    padding: 5px 0px;
+}
+
+.contioner-3 {
+    width: 100%;
+    margin: auto;
+}
+
+.img-2 img {
+    width: 100%;
+    height: auto;
+}
+
+.img-3 img {
+    width: 100%;
+    height: auto;
+}
+
+.img-4 img {
+    width: 100%;
+    height: auto;
+}
+
+.img-5 img {
+    width: 100%;
+    height: auto;
+}
+
+.img-6 img {
+    width: 100%;
+    height: auto;
+}
+
+.img-7 img {
+    width: 100%;
+    height: auto;
+}
+
+.contioner-3 p {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 22px;
+    letter-spacing: 4px;
+
+
+}
+
+.contioner-3 p a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.contioner-3 p a:hover {
+    color: rgb(128, 125, 125);
+}
+
+.contioner-4 {
+    width: 100%;
+    margin: auto;
+    background-color: black;
+    height: 400px;
+    margin-top: 63px;
+}
+.section-3 {
+    float: left;
+    width: 27%;
+}
+.section-3 h1 {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    padding: 57px 0px 22px 0px;
+    margin-left: 137px;
+}
+
+.section-3 p {
+    line-height: 24px;
+    margin-left: 205px;
+    padding: 0px;
+    font-size: 18px;
+
+}
+
+.section-3 p a{
+    text-decoration: none;
+    color: white;
+   
+}
+.section-4 {
+    float: left;
+    width: 27%;
+}
+.section-4 h1 {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    padding: 57px 0px 22px 0px;
+    margin-left: 105px;
+}
+
+.section-4 p {
+    line-height: 24px;
+    margin-left: 205px;
+    padding: 0px;
+    font-size: 18px;
+
+}
+.section-4 p a{
+    text-decoration: none;
+    color: white;
+   
+}
+.section-5 {
+    float: left;
+    width: 30%;
+}
+.section-5 p a{
+    text-decoration: none;
+    color: white;
+   
+}
+.section-5 h1 {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    padding: 57px 0px 22px 0px;
+    margin-left: 57px;
+}
+
+.section-5 p {
+    line-height: 24px;
+    margin-left: 130px;
+    padding: 0px;
+    font-size: 18px;
+    color: white;
+
+}
+input{
+    margin-left: 130px;
+    width: 286px;
+    padding: 7px 16px;
+    font-size: 16px;
+    margin-top: 16px;
+}
+button{
+    padding: 9px 42px;
+    margin: 10px 0px 0px 130px;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}

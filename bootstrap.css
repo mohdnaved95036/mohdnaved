@@ -1,0 +1,271 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+
+}
+
+.navbar-inverse {
+    margin-bottom: 0px;
+    background-color: #f4623a;
+
+}
+
+
+
+.freedom-flort .navbar-brand {
+    padding: 6px 0px;
+    line-height: 33px;
+    font-size: 40px;
+    color: black;
+}
+
+
+
+.freedom-flort .navbar-nav li a {
+    color: black;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 10px 40px;
+}
+
+.freedom-flort .navbar-nav li a:hover {
+   
+    background-color: #f4623a;
+    color: white;
+
+}
+
+.smart-1 .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.Services {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.Services h1 {
+    text-align: center;
+    position: relative;
+}
+
+.Services h1:after {
+    content: "";
+    position: absolute;
+    width: 10%;
+    top: 168%;
+    left: 45%;
+    height: 3px;
+    background-color: #f4623a;
+}
+
+.Services .social-ican {
+    margin-top: 40%;
+}
+
+.Services .social-ican a i {
+    font-size: 56px;
+    color: #f4623a;
+}
+
+.Services .social-ican h2 {
+    font-size: 30px;
+
+    padding: 10px 0px;
+    font-weight: 600;
+}
+
+.Services .social-ican p {
+    font-size: 12px;
+    text-align: center;
+    color: rgb(163, 160, 163);
+    line-height: 18px;
+}
+
+.Services .social-ican .btn {
+    border: 1px solid black;
+    margin-top: 40px;
+    line-height: 25px;
+    word-spacing: 5px;
+}
+
+.Services .social-ican .btn:hover {
+    background-color: #f4623a;
+    color: black;
+}
+*
+.ration-card {
+    margin: 100px 0px;
+}
+
+.ration-card img {
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin-top: 20px;
+
+}
+
+.confirm {
+    margin: 50px 0px;
+}
+
+.confirm .form-group {
+    margin-top: 50px;
+
+}
+
+.confirm .form-group input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 10px 0px;
+    height: 50px;
+
+}
+
+::placeholder {
+
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-left: 20px;
+}
+
+.confirm .form-group button {
+    margin-top: 10px;
+
+}
+
+
+.confirm .form-group .btn {
+    padding: 13px 35px;
+    font-size: 21px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.confirm .form-group .btn:hover {
+    background-color: #f4623a;
+    color: white;
+}
+
+
+.confirm .contact-us a i {
+    font-size: 60px;
+    justify-content: center;
+    padding: 20px 0px;
+    color: #f4623a;
+
+
+}
+
+.confirm h1 {
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    padding-top: 30px;
+}
+
+.confirm h1:after {
+    content: "";
+    position: absolute;
+    width: 10%;
+    top: 130%;
+    left: 45%;
+    height: 3px;
+    background-color: #f4623a;
+}
+
+.confirm .contact-us address {
+    font-size: 25px;
+    text-align: right;
+    line-height: 43px;
+    padding: 20px 0px;
+}
+
+.confirm .contact-us a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding: 20px 0px;
+}
+
+.confirm .contact-us a:hover {
+    color: blue;
+}
+
+.footer-1 {
+
+background-color: black;
+}
+.about-company{
+    margin:100px 0px;
+}
+.footer-1 .about-company h1 {
+    padding: 20xp 0px;
+    font-size: 25px;
+    color: white;
+}
+
+.footer-1 .about-company p {
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.footer-1 .about-company .social-ican ul {
+    list-style: none;
+}
+
+.footer-1 .about-company .social-ican ul li {
+    font-weight: 600;
+    line-height: 27px;
+
+}
+
+.footer-1 .about-company .social-ican ul li a i {
+    font-size: 15px;
+    color: white;
+    padding-right: 20px;
+}
+
+.footer-1 .about-company .social-ican ul li a {
+    text-decoration: none;
+    font-size: 12px;
+    color: white;
+
+}
+
+.footer-1 .social-img ul {
+    list-style: none;
+}
+
+.footer-1 .social-img ul li {
+
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 27px;
+
+}
+
+.footer-1 .social-img ul li a {
+    text-decoration: none;
+    color:white;
+}
+
+.footer-1 .social-img ul li i {
+    font-size: 15px;
+    padding-right: 20px;
+    color:white;
+
+}.footer-1 .copywrite h1{
+    color: white;
+    font-size:20px;
+    padding: 20px 0px;
+}

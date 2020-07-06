@@ -1,0 +1,159 @@
+@media screen and (min-width:320px) {
+    .freedom-flort {
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+    }
+    .freedom-flort .navbar-brand{
+
+        padding-right: 12px;
+    }
+    .smart-1{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .Services{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .ration-card{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .confirm{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .contact-us{padding-top: 20px;}
+    .footer-1{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .copywrite{
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    .navbar-inverse {
+        margin-bottom: 0px;
+        background-color: #f4623a;
+    
+    }
+    
+    
+    
+    .freedom-flort .navbar-brand {
+        padding: 6px 0px;
+        line-height: 33px;
+        font-size: 40px;
+        color: black;
+    }
+    
+    
+    
+    .freedom-flort .navbar-nav li a {
+        color: black;
+        line-height: 30px;
+        font-size: 20px;
+        padding: 10px 40px;
+    }
+    
+    .freedom-flort .navbar-nav li a:hover {
+       
+        background-color: #f4623a;
+        color: white;
+    
+    }
+    
+  }
+  
+  @media screen and (min-width:768px) {
+    .freedom-flort {
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-top: 10px;
+    }
+    .smart-1{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .Services{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .ration-card{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .confirm{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .contact-us{padding-top: 10px;}
+    .footer-1{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .copywrite{
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+    .freedom-flort .navbar-nav li a { 
+padding: 10px 30px;
+     }
+     .freedom-flort .navbar-brand {
+         font-size: 30px;
+         padding-left: 10px;
+     }
+     .about-company{
+         margin: 20px 0px;
+     }
+ 
+    }
+    @media screen and (min-width:1200px){
+        .freedom-flort {
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-top: 0px;
+          }
+          .smart-1{
+              margin-left: 0px;
+              margin-right: 0px;
+          }
+          .Services{
+              margin-left: 0px;
+              margin-right: 0px;
+          }
+          .ration-card{
+              margin-left: 0px;
+              margin-right: 0x;
+          }
+          .confirm{
+              margin-left: 0px;
+              margin-right: 0px;
+          }
+          .contact-us{padding-top: 0px;}
+          .footer-1{
+              margin-left: 0px;
+              margin-right: 0px;
+          }
+          .copywrite{
+              margin-right: 0px;
+              margin-left: 0px;
+          }
+          .freedom-flort .navbar-nav li a { 
+            line-height: 30px;
+            font-size: 20px;
+            padding: 10px 40px;
+           }
+           .freedom-flort .navbar-brand {
+            padding: 6px 0px;
+            line-height: 33px;
+            font-size: 40px;
+            color: black;
+           }
+           .about-company{
+               margin: 0px 0px;
+           }
+        }
+        
+    }
